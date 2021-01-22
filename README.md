@@ -1,7 +1,7 @@
 # parking_system
 微信小程序、Java spring
 
-本项目基于另外一个github开源项目
+本项目基于另外一个github开源项目 Parking_management
 
 源码内的服务器已不可使用 请自行搭建服务器 数据库的sql文件已上传 可以自行导入
 
