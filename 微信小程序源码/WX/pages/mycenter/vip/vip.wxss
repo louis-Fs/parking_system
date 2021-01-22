@@ -1,0 +1,17 @@
+/* pages/mycenter/vip/vip.wxss */
+.button-sp-area{
+    margin: 0 auto;
+    padding-top: 15px;
+    text-align:center;
+}
+.weui-btn{
+  margin-top: 10px
+}
+.yellow-btn{
+  background-color: #ffff99;
+  color:#808a87;
+  }
+.yellow-hover-class{
+  background-color: #ffff99;
+  color:#808a87;
+  }

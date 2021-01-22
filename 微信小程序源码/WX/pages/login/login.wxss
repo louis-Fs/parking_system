@@ -1,0 +1,10 @@
+/* pages/login/login.wxss */
+
+.yellow-btn{
+  background-color: #ffff99;
+  color:#808a87;
+  }
+.yellow-hover-class{
+  background-color: #ffff99;
+  color:#808a87;
+  }
